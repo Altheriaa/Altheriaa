@@ -2,7 +2,7 @@
 
 # Hey, I'm Daffa Alfharizy 👋
 Information System Students @ Universitas Abulyatama <br>
-**Full-Stack Web Developer** crafting clean interfaces & robust backends
+**Full-Stack Web Developer** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](daffaalfharizy265@gmail.com)
