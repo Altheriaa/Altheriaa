@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Daffa Alfharizy 👋
+# Hai, Gweh Daffa Alfharizy 👋
 Information System Students @ Universitas Abulyatama <br>
 **Full-Stack Web Developer** 
 
@@ -8,17 +8,6 @@ Information System Students @ Universitas Abulyatama <br>
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](daffaalfharizy265@gmail.com)
 
 </div>
-
----
-
-### 🚀 About Me
-
-Saya seorang web developer yang passionate dalam membangun aplikasi web yang fungsional dan indah — dari UI yang intuitif sampai API yang solid di belakangnya.
-
-- 🔭 Sedang mengerjakan project **full-stack** dengan Next.js & Laravel
-- 🌱 Terus belajar tentang **web performance** & **clean architecture**
-- 💬 Tanya saya soal **React, Vue, atau backend PHP/Node**
-- 📍 Based in Indonesia
 
 ---
 
