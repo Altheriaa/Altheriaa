@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Daffa Alfharizy 👋
-**Full-Stack Web Developer** crafting clean interfaces & robust backends
+Information System Students @ Universitas Abulyatama
 ---
 **Full-Stack Web Developer** crafting clean interfaces & robust backends
 
