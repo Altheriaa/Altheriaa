@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="URL_LINKEDIN_ANDA">
+  <!-- <a href="URL_LINKEDIN_ANDA">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:EMAIL_ANDA">
+  </a> -->
+  <a href="mailto:daffaalfharizy265@gmail.com">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical)
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=Altheriaa&show_icons=true&theme=radical)
 
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
