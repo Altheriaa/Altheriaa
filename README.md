@@ -9,14 +9,5 @@
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </p>
 
-<p align="center">
-  <!-- <a href="URL_LINKEDIN_ANDA">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-  <a href="mailto:daffaalfharizy265@gmail.com">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=Altheriaa&show_icons=true&theme=radical)
 
