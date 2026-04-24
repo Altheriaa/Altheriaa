@@ -40,21 +40,11 @@ Information System Students @ Universitas Abulyatama <br>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altheriaa&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altheriaa&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Altheriaa&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Altheriaa/Altheriaa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
 ---
 
 <div align="center">
